@@ -1,25 +1,13 @@
-# Advisory Board — BALLISTICSTOOLKIT
+# Advisory Board - BALLISTICSTOOLKIT_PRIOR_DOCS
 
 **Company:** Anticloud FZ LLE
-**Model:** PAX L5 Narrow L2 General 27B
-**Project:** BALLISTICSTOOLKIT | Category: ARTILLERY_MANUFACTURING
-**Upstream:** https://github.com/chasep255/BallisticsToolkit (MIT)
+**Project:** BALLISTICSTOOLKIT_PRIOR_DOCS | Category: ARTILLERY_MANUFACTURING
 
-## Overview
+## Status
 
-This document covers advisory board for the Anticloud integration of BALLISTICSTOOLKIT.
-
-Web-based ballistics suite with Monte Carlo
-
-## Anticloud Integration
-
-PAX L5 Narrow L2 General 27B is integrated into BALLISTICSTOOLKIT to provide:
-- Local AI inference with zero cloud dependency
-- AIOSS tamper-evident audit chain
-- AES-256 encryption at rest
-- Single-binary deployment
+No advisors are appointed to this project at this time. Advisory appointments, when made, will be recorded here with names, roles, and start dates.
 
 ## Contact
 
-Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+Lois-Kleinner Alpasan - CEO & CTO, Anticloud FZ LLE
 lois@0-1.gg | 0-1.gg
