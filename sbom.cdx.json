@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:85d4236c-455a-55f5-a26a-fa96856b2c6b",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-06T08:59:27Z",
+    "component": {
+      "type": "application",
+      "name": "BALLISTICSTOOLKIT_PRIOR_DOCS",
+      "version": "a4a83e5cfe32",
+      "bom-ref": "pkg:generic/anticloud/BALLISTICSTOOLKIT_PRIOR_DOCS@a4a83e5cfe32",
+      "purl": "pkg:generic/anticloud/BALLISTICSTOOLKIT_PRIOR_DOCS@a4a83e5cfe32",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "a4a83e5cfe32de7ff8e5c955c21343443d0cdf6c"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/chasep255/BallisticsToolkit"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
