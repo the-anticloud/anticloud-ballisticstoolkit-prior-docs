@@ -1,0 +1,16 @@
+{
+ "framework": "24_MITRE_ATTCK",
+ "title": "MITRE ATT&CK v15 (DQI/PQI/IQI)",
+ "project": "BALLISTICSTOOLKIT_PRIOR_DOCS",
+ "basis": [
+  {
+   "check": "15_mitre_attack",
+   "status": "NO EVIDENCE",
+   "observed": ""
+  }
+ ],
+ "verdict": "GAPS PRESENT \u2014 see basis table",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "f4cab6891ad74e00dd45035ee4d6596b15927e84f6b9e894cad19ad2662e5147",
+ "register_sha3": "254c5fc743103ec7a3a1087d8071c8ef54f340be01e3ed02169193c41005a932"
+}
